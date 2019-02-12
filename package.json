@@ -1,0 +1,15 @@
+{
+  "name": "apibeupy",
+  "version": "1.0.0",
+  "description": "Api for newsletter send message and ip control",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kumar saurabh (Beupy RRC company)",
+  "license": "ISC",
+  "dependencies": {
+    "geoip-lite": "^1.3.6",
+    "nodemailer": "^5.1.1"
+  }
+}
